@@ -10,7 +10,9 @@ G = nx.read_edgelist("EdgeList.csv", delimiter = ",", create_using = nx.Graph(),
 print(G.number_of_nodes())
 print(G.number_of_edges())
 #print the specific edges and nodes
-print(G.nodes())
-print(G.edges())
+#print(G.nodes())
+#print(G.edges())
+
+print(nx.draw(G))
 
 print("hello")
