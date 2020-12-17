@@ -7,3 +7,7 @@ How can we link related accounts together into Customer Groups?
 
 **Answer:**
 We can use the python package *networkx* to create a network of Customers using the account numbers as nodes and the comment reference as the edge. 
+
+
+*Notes:*
+For the purposes of this exercise, I generated random numbers from 1 to 2500 for a total of 3000 rows.
