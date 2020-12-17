@@ -11,3 +11,8 @@ We can use the python package *networkx* to create a network of Customers using 
 
 *Notes:*
 For the purposes of this exercise, I generated random numbers from 1 to 2500 for a total of 3000 rows.
+
+**Sources**
+
+Printing the connected components:
+https://stackoverflow.com/questions/26317775/print-connected-components-of-a-graph-in-python
