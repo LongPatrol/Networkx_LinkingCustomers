@@ -10,7 +10,7 @@ We can use the python package *networkx* to create a network of Customers using 
 
 
 *Notes:*
-For the purposes of this exercise, I generated random numbers from 1 to 2500 for a total of 3000 rows.
+For the purposes of this exercise, I created 13 accounts for 4 customers.
 
 **Sources**
 
