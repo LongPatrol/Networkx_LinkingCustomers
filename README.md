@@ -16,3 +16,9 @@ For the purposes of this exercise, I generated random numbers from 1 to 2500 for
 
 Printing the connected components:
 https://stackoverflow.com/questions/26317775/print-connected-components-of-a-graph-in-python
+
+Enumerating lists:
+https://www.geeksforgeeks.org/enumerate-in-python/
+
+Debugging blank lines:
+https://stackoverflow.com/questions/11652806/csv-write-skipping-lines-when-writing-to-csv
